@@ -71,19 +71,16 @@ Airbnb-Price-Amenities-and-Guest-Ratings-Analysis-Across-the-European-Union-EU-2
 │   └── raw/                   # Raw/unprocessed scraped files
 │
 ├── notebooks/                 # Jupyter notebooks
-│   ├── data_cleaning.ipynb    # Cleaning & preprocessing
-│   └── exploratory_analysis.ipynb # Exploratory Data Analysis
+│   └── data_cleaning.ipynb    # Cleaning & preprocessing
+│   
 │
 ├── selenium_scraper/          # Scraper code
-│   ├── scraper.py             # Main Selenium scraper
-│   └── utils.py               # Helper functions
+│   └── scraper.py             # Main Selenium scraper
+│   
 │
 ├── visualizations/            # Tableau work
 │   ├── tableau_workbook.twb   # Tableau workbook
 │   └── dashboard_export.pdf   # Exported PDF of dashboards
-│
-├── docs/                      # Documentation
-│   └── findings.md            # Detailed analysis & results
 │
 ├── README.md                  # Project overview (this file)
 ├── LICENSE                    # MIT License
