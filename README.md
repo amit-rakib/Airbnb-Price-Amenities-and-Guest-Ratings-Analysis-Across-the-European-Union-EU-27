@@ -50,7 +50,7 @@ The processed dataset is stored as **`data/airbnb_eu27.csv`** and was later used
 
 ## 📊 Dashboard Preview  
 
-👉 **[View the Interactive Tableau Dashboard](your-link-here)**  
+👉 **[View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/md.amit.hasan.rakib/viz/Book1_17560994270280/Story1?publish=yes)**  
 
 ### Previews  
 
