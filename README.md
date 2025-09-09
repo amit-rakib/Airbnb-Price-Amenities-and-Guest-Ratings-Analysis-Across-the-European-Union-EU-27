@@ -15,6 +15,20 @@ The study investigates:
 
 ---
 
+## 🕸️ Data Scraping & Preprocessing  
+
+To build this dataset, I scraped **2,521 Airbnb listings** from public pages across **27 EU countries** (5 cities per country) using **Python Selenium** and **ChromeDriver**.  
+
+- **Scraping**: Automated collection of listing details such as price, ratings (cleanliness, accuracy, check-in, communication, value), and amenity categories.  
+- **Preprocessing**: Cleaned and standardized the raw data with **Pandas** and **NumPy** by handling missing values, formatting inconsistencies, and organizing columns.  
+- **Dataset Structure**: The final cleaned dataset retained **2,521 valid rows** with the following main features:  
+  - **Location**: Country, City, Title  
+  - **Pricing**: Price per night  
+  - **Guest Ratings**: Cleanliness, Accuracy, Check-in, Communication, Value  
+  - **Amenities**: Bathroom, Bedroom & Laundry, Entertainment, Heating & Cooling, Privacy & Safety, Internet & Office, Kitchen & Dining, Parking & Facilities, Services  
+
+The processed dataset is stored as **`data/airbnb_eu27.csv`** and was later used for exploratory analysis and Tableau visualizations.  
+
 ## 📊 Findings and Observations  
 
 - **Regional Prices**:  
