@@ -48,6 +48,27 @@ The processed dataset is stored as **`data/airbnb_eu27.csv`** and was later used
 
 ---
 
+## 📊 Dashboard Preview  
+
+👉 **[View the Interactive Tableau Dashboard](your-link-here)**  
+
+### Previews  
+
+![Dashboard 1](visualizations/dashboard_export1.png)  
+*Average Airbnb prices across 27 EU countries.*  
+
+![Dashboard 2](visualizations/dashboard_export2.png)  
+*Top 5 vs Bottom 5 countries by average Airbnb price.*  
+
+![Dashboard 3](visualizations/dashboard_export3.png)  
+*Most expensive and most affordable cities in the dataset.*  
+
+![Dashboard 4](visualizations/dashboard_export4.png)  
+*Impact of premium amenities (pools, balconies, luxury features) on price.*  
+
+![Dashboard 5](visualizations/dashboard_export5.png)  
+*Guest ratings comparison across cleanliness, accuracy, check-in, and communication.*  
+
 ## ⚙️ How to Run the Scraper  
 
 ### 1. Clone the repository  
