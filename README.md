@@ -129,9 +129,15 @@ Airbnb-Price-Amenities-and-Guest-Ratings-Analysis-Across-the-European-Union-EU-2
 
 ---
 
-## 👤 Author  
+## 👤 Author & Contact  
+
 **Md. Amit Hasan Rakib**  
 Owner and sole contributor of this project.  
+
+📧 Email: [mdamithasanrakib11@gmail.com](mailto:mdamithasanrakib11@gmail.com)  
+
+If you’d like to know more about this project or collaborate, feel free to reach out!  
+ 
 
 
 
